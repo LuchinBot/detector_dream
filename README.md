@@ -5,12 +5,12 @@ Este repositorio contiene el código fuente y la documentación relacionada con 
 
 ## Uso
 
-Para utilizar este proyecto, sigue estos pasos:
+Para utilizar este proyecto debes tener instalado **Pyhton 3.11.4**, y sigue estos pasos:
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/detector-de-sueno.git
-   cd detector-de-sueno
+   git clone https://github.com/LuchinBot/detector_dream.git
+   cd detector_dream
 2. **Instalar paquetes el Repositorio**:
    ```bash
    pip3 install mediapipe

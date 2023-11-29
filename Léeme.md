@@ -11,7 +11,7 @@ Para utilizar este proyecto debes tener instalado **Pyhton 3.11.4**, y sigue est
    ```bash
    git clone https://github.com/LuchinBot/detector_dream.git
    cd detector_dream
-2. **Instalar paquetes el Repositorio**:
+2. **Instalar paquetes**:
    ```bash
    pip3 install mediapipe
    pip3 install playsound ==1.2.2

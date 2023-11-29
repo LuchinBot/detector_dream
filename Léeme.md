@@ -14,4 +14,4 @@ Para utilizar este proyecto debes tener instalado **Pyhton 3.11.4**, y sigue est
 2. **Instalar paquetes el Repositorio**:
    ```bash
    pip3 install mediapipe
-   pip3 install playsound==1.2.2
+   pip3 install playsound ==1.2.2
